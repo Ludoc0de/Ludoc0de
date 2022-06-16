@@ -1,6 +1,6 @@
 ![Bannerludocode21](https://user-images.githubusercontent.com/46927766/168493170-3753436d-9df6-4fdc-b138-e9d1b12042e9.png)
 
-<h1 align="center">Hi 👋, I'm Ludo</h1>
+<h1 align="center">Hi 👋🏾, I'm Ludo</h1>
 <h3 align="center">A passionate frontend developer from French Guiana</h3>
 
 - 🔭 I’m currently working on **Mylibrary**
