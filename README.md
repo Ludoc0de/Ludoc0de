@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://ludocode.netlify.app/](https://ludocode.netlify.app/)
+- 👩🏾‍💻 All of my projects are available at [https://ludocode.netlify.app/](https://ludocode.netlify.app/)
 
 - ⚡ Fun fact **patiserie lover**
 
