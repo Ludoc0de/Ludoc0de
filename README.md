@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mylibrary**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Node + express**
 
 - 👩🏾‍💻 All of my projects are available at [https://ludocode.netlify.app/](https://ludocode.netlify.app/)
 
