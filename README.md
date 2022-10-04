@@ -6,7 +6,7 @@
 - 💻 Check out these two Apps that I built from scratch and am most proud of:
      - [My library](https://urlibrary.netlify.app/) 
      - [Recipe](https://recipe.cyclic.app/)
-- 📫 How to reach me: [Dev Portfolio](https://ludocode.netlify.app/)
+- 📫 How to reach me: [Dev Portfolio](https://www.ludo-code.com/)
 - ⚡ Fun fact **patiserie lover**
 
 
