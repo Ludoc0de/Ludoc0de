@@ -1,20 +1,20 @@
 ![Bannerludocode21](https://user-images.githubusercontent.com/46927766/168493170-3753436d-9df6-4fdc-b138-e9d1b12042e9.png)
 
-<h1 align="center">Hi 👋🏾, I'm Ludo</h1>
-<h3 align="center">A passionate frontend developer from French Guiana</h3>
-
-- 🔭 I’m currently working on **Mylibrary**
-
-- 🌱 I’m currently learning **Node + express**
-
-- 👩🏾‍💻 All of my projects are available at [https://ludocode.netlify.app/](https://ludocode.netlify.app/)
-
+### Hi there 👋🏾, I'm Ludo!
+- 👨🏾‍💻 I'm a fullstack developer and a picture lover.
+- 🌱 I’m currently learning some devops while sharpening my skills in JavaScript, and React.
+- 💻 Check out these two Apps that I built from scratch and am most proud of:
+     - [My library](https://urlibrary.netlify.app/) 
+     - [Recettes](...)
+- 📫 How to reach me: [Dev Portfolio](https://ludocode.netlify.app/)
 - ⚡ Fun fact **patiserie lover**
+
 
 <br/>
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ludocode&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=Ludocode&show_icons=true&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ludoc0de&show_icons=true&theme=radical)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Ludoc0de&show_icons=true&theme=radical)
 
 <br/>
 <br/> 
