@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning some devops while sharpening my skills in JavaScript, and React.
 - 💻 Check out these two Apps that I built from scratch and am most proud of:
      - [My library](https://urlibrary.netlify.app/) 
-     - [Recipe](https://recipe.cyclic.app/)
+     - [Chouitte](https://chouitte.cyclic.app/)
 - 📫 How to reach me: [Dev Portfolio](https://ludo-code.com/)
 - ⚡ Fun fact **patiserie lover**
 
